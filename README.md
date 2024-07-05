@@ -54,4 +54,4 @@ To run the Checkers game, execute the following command:
    ```bash
    python main.py
 
-The game window will open, allowing you to play checkers. You can interact with the game using your mouse to select and move pieces.
+**The game window will open, allowing you to play checkers. You can interact with the game using your mouse to select and move pieces.**
