@@ -61,9 +61,9 @@ The game window will open, allowing you to play checkers. You can interact with 
 
 ### Game Initialization
 
-• 'Game' Class: Manages game state, player turns, and interactions.
-• 'Board' Class: Handles board setup, piece movements, and game rules.
-• 'Piece' Class: Represents individual checkers pieces with attributes and methods.
+* 'Game' Class: Manages game state, player turns, and interactions.
+* 'Board' Class: Handles board setup, piece movements, and game rules.
+* 'Piece' Class: Represents individual checkers pieces with attributes and methods.
 
 ### Minimax Algorithm
 
@@ -73,9 +73,9 @@ The Minimax algorithm is used to determine the optimal move for the AI opponent.
 
 The main game loop handles:
 
-• Event handling (mouse clicks for piece selection and movement).
-• AI move calculation when it's the AI's turn.
-• Game state updates and rendering using Pygame.
+* Event handling (mouse clicks for piece selection and movement).
+* AI move calculation when it's the AI's turn.
+* Game state updates and rendering using Pygame.
 
 ## Contributing
 
