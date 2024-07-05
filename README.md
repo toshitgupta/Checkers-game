@@ -43,7 +43,7 @@ To set up and run the Checkers game on your local machine, follow these steps:
    ```bash
    pip install pygame
 
-4. **Add assets:**
+3. **Add assets:**
    
    Ensure the assets/crown.jpg image is available in the assets directory for the crown image on king pieces.
 
@@ -52,6 +52,6 @@ To set up and run the Checkers game on your local machine, follow these steps:
 To run the Checkers game, execute the following command:
 
 ```bash
-python main.py
+python main.py ```
 
 The game window will open, allowing you to play checkers. You can interact with the game using your mouse to select and move pieces.
